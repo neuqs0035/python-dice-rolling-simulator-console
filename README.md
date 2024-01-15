@@ -23,10 +23,10 @@ Before running the script, ensure you have the following installed:
 ## How to Use
 
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/neuqs0035/python-dice-rolling-simulator-console.git
-  cd python-dice-rolling-simulator-console
-  ```
+    ```bash
+    git clone https://github.com/neuqs0035/python-dice-rolling-simulator-console.git
+    cd python-dice-rolling-simulator-console
+    ```
 
 2. Run Code:
    ```bash
